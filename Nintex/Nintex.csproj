@@ -43,20 +43,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adarsh_Robot\RobotTemplate.cs" />
     <Compile Include="afraz\RobotTemplate.cs" />
     <Compile Include="Amirul\RobotTemplate.cs" />
+    <Compile Include="AmruBot\RobotTemplate.cs" />
+    <Compile Include="Amy_Comel\RobotTemplate.cs" />
     <Compile Include="arif\RobotTemplate.cs" />
+    <Compile Include="Casuy_RocketRaven\RobotTemplate.cs" />
+    <Compile Include="Chel_Bot\RobotTemplate.cs" />
+    <Compile Include="Edison\RobotTemplate.cs" />
+    <Compile Include="Faisal_SyBot\RobotTemplate.cs" />
     <Compile Include="Fik_kfkbot\RobotTemplate.cs" />
     <Compile Include="Govindaswamy\RobotTemplate.cs" />
+    <Compile Include="Govind_LiverpolBot\RobotTemplate.cs" />
+    <Compile Include="Hafiz\RobotTemplate.cs" />
     <Compile Include="killer\RobotTemplate.cs" />
     <Compile Include="LiTheng\RobotTemplate.cs" />
     <Compile Include="Mak_Bot\RobotTemplate.cs" />
+    <Compile Include="Michael_Kola\RobotTemplate.cs" />
+    <Compile Include="MUmair_MalikBot\RobotTemplate.cs" />
     <Compile Include="mysara\RobotTemplate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="rahim\RobotTemplate.cs" />
     <Compile Include="Ravin\RobotTemplate.cs" />
     <Compile Include="RobotTemplate.cs" />
+    <Compile Include="Saw_Pika\RobotTemplate.cs" />
     <Compile Include="scanfire008\RobotTemplate.cs" />
+    <Compile Include="Shafeka_PekaBot\RobotTemplate.cs" />
     <Compile Include="tabish\RobotTemplate.cs" />
     <Compile Include="Weed\RobotTemplate.cs" />
     <Compile Include="YukiAuyong_YayBot\RobotTemplate.cs" />
