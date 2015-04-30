@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Adarsh_Robot\RobotTemplate.cs" />
     <Compile Include="afraz\RobotTemplate.cs" />
-    <Compile Include="Amirul\RobotTemplate.cs" />
+    <Compile Include="Amirul_NoName\RobotTemplate.cs" />
     <Compile Include="AmruBot\RobotTemplate.cs" />
     <Compile Include="Amy_Comel\RobotTemplate.cs" />
     <Compile Include="arif\RobotTemplate.cs" />
@@ -57,7 +57,7 @@
     <Compile Include="Govindaswamy\RobotTemplate.cs" />
     <Compile Include="Govind_LiverpolBot\RobotTemplate.cs" />
     <Compile Include="Hafiz\RobotTemplate.cs" />
-    <Compile Include="killer\RobotTemplate.cs" />
+    <Compile Include="killer_NotComplete\RobotTemplate.cs" />
     <Compile Include="LiTheng\RobotTemplate.cs" />
     <Compile Include="Mak_Bot\RobotTemplate.cs" />
     <Compile Include="Michael_Kola\RobotTemplate.cs" />
