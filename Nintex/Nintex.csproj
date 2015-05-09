@@ -57,7 +57,6 @@
     <Compile Include="Govindaswamy\RobotTemplate.cs" />
     <Compile Include="Govind_LiverpolBot\RobotTemplate.cs" />
     <Compile Include="Hafiz\RobotTemplate.cs" />
-    <Compile Include="killer_NotComplete\RobotTemplate.cs" />
     <Compile Include="LiTheng\RobotTemplate.cs" />
     <Compile Include="Mak_Bot\RobotTemplate.cs" />
     <Compile Include="Michael_Kola\RobotTemplate.cs" />
